@@ -1,0 +1,54 @@
+
+body {
+  background:#FFFFFF;
+  background: linear-gradient(to right, #FFFFFF, #FFFFFF);
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+  color:  #FFFFFF!important;
+  background-color: #0938B1;
+}
+
+.btn-google {
+  color:  #2C2C2C!important;
+  background-color: #E5E5E5;
+  border: #2C2C2C 2px solid;
+  font-size: 14px;
+}
+.t1 p{
+  font-size: 12.71px;
+
+}
+
+.t1 h3{
+  font-size: 18px;
+}
+
+
+.t3{
+width: 30%;
+
+}
+
+
+.td p{
+  text-align: center;
+}
+
+
+.td span{
+font-weight: 600;
+color: #0938B1;
+
+}
+
+.td img {
+  width: 30%;
+}
+
+/* https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css
+https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js */
